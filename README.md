@@ -38,7 +38,7 @@ If you have some [OCD](https://en.wikipedia.org/wiki/Obsessive%E2%80%93compulsiv
 
 1. Find your [favorite project](https://github.com/trending) and Fork it
 2. Clone it and open the project in your [favorite editor](https://code.visualstudio.com/)
-3. Search all for exact match of `Github` and replace them with `macOS`
+3. Search all for exact matches of `OSX, OS X, MacOS` and replace them with `macOS`
 4. Create a new branch: `git checkout -b macos`
 5. Commit all changes: `git commit -am 'Rename OSX, OS X, MacOS to macOS'`
 6. Push your changes: `git push origin macos`
