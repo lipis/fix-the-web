@@ -1,6 +1,6 @@
 # Fix The Web
 
-> Let's fix it together.. One line at a time!
+> Let's fix it together... One line at a time!
 
 ## What is this?
 
