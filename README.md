@@ -4,7 +4,7 @@
 
 ## What is this?
 
-If you have some [OCD](https://en.wikipedia.org/wiki/Obsessive%E2%80%93compulsive_disorder) issues as I have, you can easily fix quite a few things and at the same time contribute to your favorite project. It's never too late to start contributing instead of just consuming.
+If you are [persnickety](https://www.merriam-webster.com/dictionary/persnickety) like I am, you can easily fix quite a few things and at the same time contribute to your favorite project. It's never too late to start contributing instead of just consuming.
 
 ## Contents
 
