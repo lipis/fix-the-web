@@ -8,39 +8,25 @@ If you are [persnickety](https://www.merriam-webster.com/dictionary/persnickety)
 
 ## Contents
 
-- [Rename Github to GitHub](#rename-github-to-github)
-- [Rename Javascript to JavaScript](#rename-javascript-to-javascript)
-- [Rename OSX, OS X, MacOS to macOS](#rename-osx-os-x-macos-to-macos)
+- [Search and Replace]('#search-and-replace')
 
-### Rename Github to GitHub
+## Search and Replace
 
-1. Find your [favorite project](https://github.com/trending) and Fork it
-2. Clone it and open the project in your [favorite editor](https://code.visualstudio.com/)
-3. Search all for exact match of `Github` and replace it with `GitHub`
-4. Create a new branch: `git checkout -b github`
-5. Commit all changes: `git commit -am 'Rename Github to GitHub'`
-6. Push your changes: `git push origin github`
-7. Create pull request to the [original project](https://github.com/facebook/react/pull/9797)
-8. Be polite!
+### Recommended renames
 
-### Rename Javascript to JavaScript
+We recommend to submit each of the following possible fixes in a separate Pull Request.
+
+- `Github` => `GitHub`
+- `Javascript` => `JavaScript`
+- `OSX`, `OS X`, `MacOS` => `macOS`
+
+### Yes, but how?
 
 1. Find your [favorite project](https://github.com/trending) and Fork it
 2. Clone it and open the project in your [favorite editor](https://code.visualstudio.com/)
 3. Search all for exact match of `Javascript` and replace it with `JavaScript`
-4. Create a new branch: `git checkout -b javascript`
-5. Commit all changes: `git commit -am 'Rename Javascript to JavaScript'`
-6. Push your changes: `git push origin javascript`
-7. Create pull request to the [original project](https://github.com/facebook/react/pull/9796)
-8. Be polite!
-
-### Rename OSX, OS X, MacOS to macOS
-
-1. Find your [favorite project](https://github.com/trending) and Fork it
-2. Clone it and open the project in your [favorite editor](https://code.visualstudio.com/)
-3. Search all for exact matches of `OSX, OS X, MacOS` and replace them with `macOS`
-4. Create a new branch: `git checkout -b macos`
-5. Commit all changes: `git commit -am 'Rename OSX, OS X, MacOS to macOS'`
-6. Push your changes: `git push origin macos`
+4. Create a new branch: `git checkout -b fix-case`
+5. Commit all changes: `git commit -am 'Fix case: Javascript to JavaScript'`
+6. Push your changes: `git push origin fix-case`
 7. Create pull request to the [original project](https://github.com/facebook/react/pull/9797)
 8. Be polite!
