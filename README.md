@@ -18,7 +18,7 @@ If you are [persnickety](https://www.merriam-webster.com/dictionary/persnickety)
 
 ## EditorConfig
 
-> _No matter how many people contrubte to the code, it should always look like it was written by one person._
+> _No matter how many people contribute to the code, it should always look like it was written by one person._
 
 And with that in mind it's a good idea to add the [EditorConfig](http://editorconfig.org/) into your favorite project.
 
