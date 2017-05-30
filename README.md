@@ -8,8 +8,8 @@ If you are [persnickety](https://www.merriam-webster.com/dictionary/persnickety)
 
 ## Contents
 
-- [EditorConfig]('#editorconfig')
-- [Search and Replace]('#search-and-replace')
+- [EditorConfig](#editorconfig)
+- [Search and Replace](#search-and-replace)
 
 ## EditorConfig
 
