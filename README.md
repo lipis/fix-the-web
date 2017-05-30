@@ -10,6 +10,11 @@ If you are [persnickety](https://www.merriam-webster.com/dictionary/persnickety)
 
 - [EditorConfig](#editorconfig)
 - [Search and Replace](#search-and-replace)
+  - `Github` => `GitHub`
+  - `Javascript` => `JavaScript`
+  - `OSX`, `OS X`, `MacOS` => `macOS`
+  - `XCode` => `Xcode`
+
 
 ## EditorConfig
 
@@ -44,14 +49,15 @@ We recommend to submit each of the following possible fixes in a separate Pull R
 - `Github` => `GitHub`
 - `Javascript` => `JavaScript`
 - `OSX`, `OS X`, `MacOS` => `macOS`
+- `XCode` => `Xcode`
 
 ### Yes, but how?
 
 1. Find your [favorite project](https://github.com/trending) and Fork it
 2. Clone it and open the project in your [favorite editor](https://code.visualstudio.com/)
-3. Search all for exact match of `Javascript` and replace it with `JavaScript`
+3. Search all for exact match of `Github` and replace it with `GitHub`
 4. Create a new branch: `git checkout -b fix-case`
-5. Commit all changes: `git commit -am 'Fix case: Javascript to JavaScript'`
+5. Commit all changes: `git commit -am 'Fix case: Github to GitHub'`
 6. Push your changes: `git push origin fix-case`
 7. Create pull request to the [original project](https://github.com/facebook/react/pull/9797)
 8. Be polite!
