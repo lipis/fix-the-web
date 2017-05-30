@@ -46,10 +46,12 @@ Get ideas from: [React](https://github.com/facebook/react/blob/master/.editorcon
 
 We recommend to submit each of the following possible fixes in a separate Pull Request.
 
-- `Github` => `GitHub`
-- `Javascript` => `JavaScript`
-- `OSX`, `OS X`, `MacOS` => `macOS`
-- `XCode` => `Xcode`
+| Search for             | Replace with  |
+| ---------------------- | ------------- |
+| `Github`               | `GitHub`      |
+| `Javascript`           | `JavaScript`  |
+| `OSX`, `OS X`, `MacOS` | `macOS`       |
+| `XCode`                | `Xcode`       |
 
 ### Yes, but how?
 
